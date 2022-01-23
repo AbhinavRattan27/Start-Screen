@@ -1,16 +1,25 @@
 body{
-    background-color: aliceblue;
+    background-color: aquamarine;
 }
-
 h1{
-    font-size: 55px;
+   font-size: 54px;
+   text-align: center;
+   color:#dc143c;
+}
+ 
+.buttondiv{
     text-align: center;
+    padding: 10px;
 }
 
-.paddingimg{
-    padding: 50px;
+.button1{
+    margin: 25px;
+    font-size: 40px;
+    color: darkgoldenrod;
 }
 
-.imgdiv{
-    text-align: center;
+.button2{
+    margin: 20px;
+    font-size: 40px;
+    color:darkgoldenrod;
 }
