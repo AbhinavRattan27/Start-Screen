@@ -1,8 +1,12 @@
-function button1js(){
-    window.location.replace("https://abhinavrattan27.github.io/main-game-1st-/");
+function lfthnd(){
+ document.getElementById("badluck").innerHTML="You Win!";
+ window.location.replace("");
+
+}
+function rhthnd(){
+ document.getElementById("badluck").innerHTML="You Lose!";
+ window.location.replace("");
 }
 
-function button2js(){
-    document.getElementById("bye").innerHTML="Bye!"
-    window.location.replace("https://www.google.com/");
-}
+
+  
